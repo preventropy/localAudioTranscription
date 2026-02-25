@@ -1,0 +1,12 @@
+.venv
+
+.env
+
+/processed/extractedAudio/*
+/processed/logs/*
+/processed/sourceAudio/*
+/processed/summaries/*
+/processed/transcriptions/*
+/sourceAudio/*
+
+!.gitkeep
